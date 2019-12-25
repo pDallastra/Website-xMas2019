@@ -24,7 +24,7 @@
                         during my mission.</p>
                 </div>
                 <div class="img-text flex col center">
-                    <img src="../img/brady2.jpg" style="transform: rotate(180deg);" alt="">
+                    <img src="../img/brady20.jpg" style="transform: rotate(180deg);" alt="">
                     <p>But when I got back from my mission, no one could stop us anymore :D</p>
                 </div>
                 <div class="img-text flex col center">

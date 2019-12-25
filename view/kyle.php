@@ -22,11 +22,11 @@
                         during my mission.</p>
                 </div>
                 <div class="img-text flex col">
-                    <img src="../img/kyle3.jpg" style="transform: rotate(0deg);" alt="">
+                    <img src="../img/kyle30.jpg" style="transform: rotate(0deg);" alt="">
                     <p>But when I got back from my mission, no one could stop us anymore :D</p>
                 </div>
                 <div class="img-text flex col">
-                    <img src="../img/kyle2.jpg" style="transform: rotate(180deg);" alt="">
+                    <img src="../img/kyle20.jpg" style="transform: rotate(180deg);" alt="">
                     <p>But when I got back from my mission, no one could stop us anymore :D</p>
                 </div>
             </div>

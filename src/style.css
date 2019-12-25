@@ -285,7 +285,6 @@ footer h3 {
   .mainMenu .options .butttons {
     margin: 5px auto;
     flex-flow: column;
-    background-color: white;
   }
   .mainMenu .options .butttons button {
     width: 200px;

@@ -13,7 +13,7 @@
     <section class="mainMenu">
         <div class="dallastras flex col center">
             <h1>The Dallastras</h1>
-            <img src="../img/family2.jpg" alt="">
+            <img src="img/family2.JPG" alt="">
         </div>
         <div class="options flex col center">
             <div class="butttons flex row center">

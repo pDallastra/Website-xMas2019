@@ -21,7 +21,7 @@
             <h2>“Being a family means you are a part of something very wonderful. It means you will love and be loved
                 for the rest of your life.” – Lisa Weed</h2>
             <div class="flex row center">
-                <button><a href="index.php">Home</a></button>
+                <button><a href="../index.php">Home</a></button>
                 <button><a href="dating.php">Next</a></button>
             </div>
             <?php require_once('footer.php'); ?>

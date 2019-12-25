@@ -48,7 +48,7 @@
                 </div>
             </div>
             <div class="flex row center">
-                <button><a href="index.php">Home</a></button>
+                <button><a href="../index.php">Home</a></button>
             </div>
             <?php require_once('footer.php'); ?>
         </div>

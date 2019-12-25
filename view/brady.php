@@ -19,32 +19,36 @@
             </div>
             <div class="img-triple flex row center">
                 <div class="img-text flex col center">
-                    <img src="../img/brady1.jpg" alt="">
-                    <p>We were lucas without people knowing at this time. Her parents didn't accept her waiting for me
-                        during my mission.</p>
+                    <img src="../img/brady5.jpg" alt="">
+                    <p>I will never forget how Brady received us and treated us so well. He cooked for us and was so patient with our pretty bad English at that time. 
+                    And during a transitioning time he accepted us as family to go through that without problems.</p>
                 </div>
                 <div class="img-text flex col center">
-                    <img src="../img/brady20.jpg" alt="">
-                    <p>But when I got back from my mission, no one could stop us anymore :D</p>
+                    <img src="../img/brady4.jpg" alt="">
+                    <p>She adopted us as her siblings since first time. Treated us so well and took care of our kids as her kids. Always trying to motive us making sure
+                    that we know how much we have done so far and how much we are able to do. We can feel her love for us.</p>
                 </div>
                 <div class="img-text flex col center">
                     <img src="../img/brady3.jpg" alt="">
-                    <p>And within 2 months that I got back from my mission, we were engaged.</p>
+                    <p>The got married on one of the most pure ways possible. And then they have been building their family with so much love. They worked so hard on
+                    themselves and because of that they are building a successful life/family. Such a great example to us.</p>
                 </div>
             </div>
             <div class="img-triple flex row center">
                 <div class="img-text flex col center">
-                    <img src="../img/brady4.jpg" alt="">
-                    <p>We were lucas without people knowing at this time. Her parents didn't accept her waiting for me
-                        during my mission.</p>
+                    <img src="../img/brady20.jpg" alt="">
+                    <p>They got some tickets for a special event in Salt Lake City. We only could enjoy the event online, and even the tickets getting sold out in minutes
+                    they saved two of them so my wife and I could come with them and enjoy the event. What a wonderful time!</p>
                 </div>
                 <div class="img-text flex col center">
-                    <img src="../img/brady5.jpg" alt="">
-                    <p>But when I got back from my mission, no one could stop us anymore :D</p>
+                    <img src="../img/brady1.jpg" alt="">
+                    <p>I know you guys are disciples of Christ! Because you guys love and help others so much as He did, and because of that you guys deserve all the success you have achieved
+                    and will achieve in the future.</p>
                 </div>
                 <div class="img-text flex col center">
                     <img src="../img/brady6.jpg" alt="">
-                    <p>And within 2 months that I got back from my mission, we were engaged.</p>
+                    <p>We love you so much, and if we can't do for you as much as you have done for us, we will make sure to do it for others because the phrase "Thank You" is just not enough
+                    to express what we feel.</p>
                 </div>
             </div>
             <div class="flex row center">

@@ -18,16 +18,16 @@
             <div class="img-triple flex row center">
                 <div class="img-text flex col center">
                     <img src="../img/sas1.jpg" style="transform: rotate(0deg);" alt="">
-                    <p>We were lucas without people knowing at this time. Her parents didn't accept her waiting for me
-                        during my mission.</p>
+                    <p>We used to attend the same church building. And Heavenly Father gave us the opportunity to be friends with and learn from them.</p>
                 </div>
                 <div class="img-text flex col center">
                     <img src="../img/sas2.jpg" style="transform: rotate(0deg);" alt="">
-                    <p>But when I got back from my mission, no one could stop us anymore :D</p>
+                    <p>They are a great family that always were willing to help and all of their effort to come to the US following their dreams was the example we followed.</p>
                 </div>
                 <div class="img-text flex col center">
                     <img src="../img/sas3.jpg" style="transform: rotate(0deg);" alt="">
-                    <p>But when I got back from my mission, no one could stop us anymore :D</p>
+                    <p>As they did for some many others, they not only shared their experiences/knowledge but they received and helped us with everything we need when we just got
+                    here! Thank you so much guys!</p>
                 </div>
             </div>
             <div class="flex row center">

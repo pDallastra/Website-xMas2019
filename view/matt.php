@@ -18,16 +18,16 @@
             <div class="img-triple flex row center">
                 <div class="img-text flex col center">
                     <img src="../img/matt3.jpg" alt="">
-                    <p>We were lucas without people knowing at this time. Her parents didn't accept her waiting for me
-                        during my mission.</p>
+                    <p>It was hard to find pictures of Matt. But the reason I chose this one is because that's how I see him, always surround of good people and so happy!</p>
                 </div>
                 <div class="img-text flex col center">
                     <img src="../img/matt1.jpg" alt="">
-                    <p>But when I got back from my mission, no one could stop us anymore :D</p>
+                    <p>He also received his brother's friend as family. He tried to help us with our kids and make them have fun.</p>
                 </div>
                 <div class="img-text flex col center">
                     <img src="../img/matt2.jpg" alt="">
-                    <p>But when I got back from my mission, no one could stop us anymore :D</p>
+                    <p>It is hard to understand sometimes why life is so hard. But behind every situation there is something God wants us to learn. I know he gives the hardest tasks and 
+                    experiences to those who is able to handle it, and the person who he is shows that he has always done his best to overcome hard situations. Thanks for being an example!</p>
                 </div>
             </div>
             <div class="flex row center">

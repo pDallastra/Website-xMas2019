@@ -18,16 +18,18 @@
             <div class="img-triple flex row center center">
                 <div class="img-text flex col">
                     <img src="../img/don5.jpg" style="transform: rotate(0deg);" alt="">
-                    <p>We were lucas without people knowing at this time. Her parents didn't accept her waiting for me
-                        during my mission.</p>
+                    <p>I don't think he can imagine how much he has helped us since we got in the US. But I don't remember a hard time when we couldn't overcome without receiving
+                    his helped directly and indirectly! Thank you for willing so much to help us achieving our goals.</p>
                 </div>
                 <div class="img-text flex col">
                     <img src="../img/don4.jpg" style="transform: rotate(0deg);" alt="">
-                    <p>But when I got back from my mission, no one could stop us anymore :D</p>
+                    <p>She has been literally as a mom for us. Helping our kids as her grandchildren, expressing so much love that missing Brazil and family is not that hard anymore.
+                    I really feel like your son, and I'm so grateful for you love to my wife and my kids.</p>
                 </div>
                 <div class="img-text flex col">
                     <img src="../img/don1.jpg" style="transform: rotate(0deg);" alt="">
-                    <p>But when I got back from my mission, no one could stop us anymore :D</p>
+                    <p>You guys together are able to help Heavenly Father to take care His children in this Earth, and we love you and we are thankful for being able to get to know you.
+                    Your example makes us work harder to a day be able to do the same to others!</p>
                 </div>
             </div>
             <div class="flex row center">

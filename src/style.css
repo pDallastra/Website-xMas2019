@@ -279,7 +279,6 @@ footer h3 {
   .mainMenu .options {
     width: 90vw;
     height: 12 0px;
-    background-color: rgba(108, 123, 149, 0.7);
     margin: 0 auto;
     border-radius: 10px;
   }
@@ -294,8 +293,6 @@ footer h3 {
     margin: 10px;
   }
   .mainMenu .options .butttons button a {
-    text-decoration: none;
-    color: black;
     font-size: 18px;
   }
   .mainMenu .options button {
@@ -305,8 +302,6 @@ footer h3 {
     margin: 20px;
   }
   .mainMenu .options button a {
-    text-decoration: none;
-    color: black;
     font-size: 18px;
   }
 }

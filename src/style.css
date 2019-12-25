@@ -68,6 +68,7 @@ body {
   border-radius: 10px;
 }
 .mainMenu .dallastras img {
+  image-orientation: from-image;
   width: auto;
   height: 620px;
   margin: 0 auto 20px;
@@ -121,6 +122,7 @@ body {
   border-radius: 10px;
 }
 .main-container img {
+  image-orientation: from-image;
   width: 50vw;
   height: auto;
   margin: 0 auto 20px;
@@ -138,6 +140,7 @@ body {
   border-radius: 10px;
 }
 .main-container .img-triple .img-text img {
+  image-orientation: from-image;
   height: 400px;
   width: auto;
   min-width: 380px;
@@ -160,6 +163,7 @@ body {
   border-radius: 10px;
 }
 .main-container .img-triple .img-text-rotate-negative90 img {
+  image-orientation: from-image;
   height: 400px;
   width: auto;
   min-width: 380px;
@@ -175,6 +179,7 @@ body {
   border-radius: 10px;
 }
 .main-container .img-triple .img-text-rotate-90 img {
+  image-orientation: from-image;
   height: 400px;
   width: auto;
   min-width: 380px;
@@ -233,6 +238,7 @@ footer h3 {
     background-color: transparent;
   }
   .main-container img {
+    image-orientation: from-image;
     height: 230px;
     width: auto;
   }
@@ -244,6 +250,7 @@ footer h3 {
     margin: 10px 0;
   }
   .main-container .img-triple .img-text img {
+    image-orientation: from-image;
     min-width: 0;
   }
   .main-container .img-triple .img-text-rotate-negative90 {
@@ -252,6 +259,7 @@ footer h3 {
     height: auto;
   }
   .main-container .img-triple .img-text-rotate-negative90 img {
+    image-orientation: from-image;
     min-width: 0;
     width: auto;
     height: 260px;
@@ -263,6 +271,7 @@ footer h3 {
     height: auto;
   }
   .main-container .img-triple .img-text-rotate-90 img {
+    image-orientation: from-image;
     min-width: 0;
     width: auto;
     height: 260px;
@@ -275,6 +284,7 @@ footer h3 {
     background-color: transparent;
   }
   .mainMenu .dallastras img {
+    image-orientation: from-image;
     height: auto;
     width: 350px;
   }

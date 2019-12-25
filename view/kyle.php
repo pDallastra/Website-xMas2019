@@ -26,7 +26,7 @@
                     <p>But when I got back from my mission, no one could stop us anymore :D</p>
                 </div>
                 <div class="img-text flex col">
-                    <img src="../img/kyle20.jpg" style="transform: rotate(180deg);" alt="">
+                    <img src="../img/kyle20.jpg" alt="">
                     <p>But when I got back from my mission, no one could stop us anymore :D</p>
                 </div>
             </div>

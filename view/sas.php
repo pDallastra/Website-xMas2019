@@ -26,7 +26,7 @@
                 </div>
                 <div class="img-text flex col center">
                     <img src="../img/sas3.jpg" style="transform: rotate(0deg);" alt="">
-                    <p>As they did for some many others, they not only shared their experiences/knowledge but they received and helped us with everything we need when we just got
+                    <p>As they did for so many others, they not only shared their experiences/knowledge but they received and helped us with everything we need when we just got
                     here! Thank you so much guys!</p>
                 </div>
             </div>

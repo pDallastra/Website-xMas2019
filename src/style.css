@@ -30,7 +30,7 @@ body {
 .sidebar .sidebarMenu {
   width: 95%;
   height: 98%;
-  background-color: #c70d3a;
+  background-color: rgba(199, 13, 58, 0.8);
   box-shadow: 5px 5px rgba(1, 131, 131, 0.7);
   margin: 5px;
   border-radius: 10px;
@@ -64,7 +64,7 @@ body {
   margin: 0 auto 20px;
   font-family: "Fjalla One";
   letter-spacing: 2px;
-  background-color: rgba(255, 255, 255, 0.7);
+  background-color: rgba(199, 13, 58, 0.7);
   border-radius: 10px;
 }
 .mainMenu .dallastras img {
@@ -88,6 +88,7 @@ body {
   height: 40px;
   border-radius: 10px;
   margin: 20px;
+  background-color: white;
 }
 .mainMenu .options .triple-buttton button a {
   text-decoration: none;

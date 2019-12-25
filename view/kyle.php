@@ -17,12 +17,12 @@
             <h1>Kyle & Monika</h1>
             <div class="img-triple flex row center center">
                 <div class="img-text flex col">
-                    <img src="../img/kyle5.jpg" style="transform: rotate(0deg);" alt="">
+                    <img src="../img/kyle5.jpg" alt="">
                     <p>We were lucas without people knowing at this time. Her parents didn't accept her waiting for me
                         during my mission.</p>
                 </div>
                 <div class="img-text flex col">
-                    <img src="../img/kyle30.jpg" style="transform: rotate(0deg);" alt="">
+                    <img src="../img/kyle30.jpg" alt="">
                     <p>But when I got back from my mission, no one could stop us anymore :D</p>
                 </div>
                 <div class="img-text flex col">
@@ -32,31 +32,31 @@
             </div>
             <div class="img-triple flex row center center">
                 <div class="img-text flex col">
-                    <img src="../img/kyle4.jpg" style="transform: rotate(0deg);" alt="">
+                    <img src="../img/kyle4.jpg" alt="">
                     <p>We were lucas without people knowing at this time. Her parents didn't accept her waiting for me
                         during my mission.</p>
                 </div>
                 <div class="img-text flex col">
-                    <img src="../img/kyle9.jpg" style="transform: rotate(0deg);" alt="">
+                    <img src="../img/kyle9.jpg" alt="">
                     <p>But when I got back from my mission, no one could stop us anymore :D</p>
                 </div>
                 <div class="img-text flex col">
-                    <img src="../img/kyle8.jpg" style="transform: rotate(0deg);" alt="">
+                    <img src="../img/kyle8.jpg" alt="">
                     <p>But when I got back from my mission, no one could stop us anymore :D</p>
                 </div>
             </div>
             <div class="img-triple flex row center center">
                 <div class="img-text flex col">
-                    <img src="../img/kyle10.jpg" style="transform: rotate(0deg);" alt="">
+                    <img src="../img/kyle10.jpg" alt="">
                     <p>We were lucas without people knowing at this time. Her parents didn't accept her waiting for me
                         during my mission.</p>
                 </div>
                 <div class="img-text flex col">
-                    <img src="../img/kyle6.jpg" style="transform: rotate(0deg);" alt="">
+                    <img src="../img/kyle6.jpg" alt="">
                     <p>But when I got back from my mission, no one could stop us anymore :D</p>
                 </div>
                 <div class="img-text flex col">
-                    <img src="../img/kyle7.jpg" style="transform: rotate(0deg);" alt="">
+                    <img src="../img/kyle7.jpg" alt="">
                     <p>But when I got back from my mission, no one could stop us anymore :D</p>
                 </div>
             </div>

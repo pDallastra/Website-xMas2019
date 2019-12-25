@@ -19,31 +19,31 @@
             </div>
             <div class="img-triple flex row center">
                 <div class="img-text flex col center">
-                    <img src="../img/brady1.jpg" style="transform: rotate(0deg);" alt="">
+                    <img src="../img/brady1.jpg" alt="">
                     <p>We were lucas without people knowing at this time. Her parents didn't accept her waiting for me
                         during my mission.</p>
                 </div>
                 <div class="img-text flex col center">
-                    <img src="../img/brady20.jpg" style="transform: rotate(180deg);" alt="">
+                    <img src="../img/brady20.jpg" alt="">
                     <p>But when I got back from my mission, no one could stop us anymore :D</p>
                 </div>
                 <div class="img-text flex col center">
-                    <img src="../img/brady3.jpg" style="transform: rotate(0deg);" alt="">
+                    <img src="../img/brady3.jpg" alt="">
                     <p>And within 2 months that I got back from my mission, we were engaged.</p>
                 </div>
             </div>
             <div class="img-triple flex row center">
                 <div class="img-text flex col center">
-                    <img src="../img/brady4.jpg" style="transform: rotate(0deg);" alt="">
+                    <img src="../img/brady4.jpg" alt="">
                     <p>We were lucas without people knowing at this time. Her parents didn't accept her waiting for me
                         during my mission.</p>
                 </div>
                 <div class="img-text flex col center">
-                    <img src="../img/brady5.jpg" style="transform: rotate(0deg);" alt="">
+                    <img src="../img/brady5.jpg" alt="">
                     <p>But when I got back from my mission, no one could stop us anymore :D</p>
                 </div>
                 <div class="img-text flex col center">
-                    <img src="../img/brady6.jpg" style="transform: rotate(0deg);" alt="">
+                    <img src="../img/brady6.jpg" alt="">
                     <p>And within 2 months that I got back from my mission, we were engaged.</p>
                 </div>
             </div>

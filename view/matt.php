@@ -27,7 +27,7 @@
                 <div class="img-text flex col center">
                     <img src="../img/matt2.jpg" alt="">
                     <p>It is hard to understand sometimes why life is so hard. But behind every situation there is something God wants us to learn. I know he gives the hardest tasks and 
-                    experiences to those who is able to handle it, and the person who he is shows that he has always done his best to overcome hard situations. Thanks for being an example!</p>
+                    experiences to those who is able to handle it, and the person who Matt is shows that he has always done his best to overcome hard situations. Thanks for being an example!</p>
                 </div>
             </div>
             <div class="flex row center">

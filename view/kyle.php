@@ -26,7 +26,7 @@
                 </div>
                 <div class="img-text flex col">
                     <img src="../img/kyle20.jpg" alt="">
-                    <p>I will never forget him taking care of myself when I had to pull out my wisdom teeth. But most important, the people we served together in Curitiba.</p>
+                    <p>I will never forget him not only for taking care of myself when I had to pull out my wisdom teeth, but most important, because of the people we served together in Curitiba.</p>
                 </div>
             </div>
             <div class="img-triple flex row center center">

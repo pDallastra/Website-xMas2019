@@ -20,8 +20,8 @@
             <div class="img-triple flex row center">
                 <div class="img-text flex col center">
                     <img src="../img/brady5.jpg" alt="">
-                    <p>I will never forget how Brady received us and treated us so well. He cooked for us and was so patient with our pretty bad English at that time. 
-                    And during a transitioning time he accepted us as family to go through that without problems.</p>
+                    <p>I will never forget how Brady received us and treated us so well. He cooked for us and was so patient with our pretty bad English. 
+                    During a transitioning time he accepted us as family to go through that without problems.</p>
                 </div>
                 <div class="img-text flex col center">
                     <img src="../img/brady4.jpg" alt="">
@@ -30,7 +30,7 @@
                 </div>
                 <div class="img-text flex col center">
                     <img src="../img/brady3.jpg" alt="">
-                    <p>The got married on one of the most pure ways possible. And then they have been building their family with so much love. They worked so hard on
+                    <p>They got married on one of the most pure ways possible. And then, they have been building their family with so much love. They worked so hard on
                     themselves and because of that they are building a successful life/family. Such a great example to us.</p>
                 </div>
             </div>
@@ -42,7 +42,7 @@
                 </div>
                 <div class="img-text flex col center">
                     <img src="../img/brady1.jpg" alt="">
-                    <p>I know you guys are disciples of Christ! Because you guys love and help others so much as He did, and because of that you guys deserve all the success you have achieved
+                    <p>I know they are disciples of Christ! Because they love and help others so much as He did, and because of that they deserve all the success they have achieved
                     and will achieve in the future.</p>
                 </div>
                 <div class="img-text flex col center">

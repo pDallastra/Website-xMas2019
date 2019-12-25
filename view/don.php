@@ -19,7 +19,7 @@
                 <div class="img-text flex col">
                     <img src="../img/don5.jpg" style="transform: rotate(0deg);" alt="">
                     <p>I don't think he can imagine how much he has helped us since we got in the US. But I don't remember a hard time when we couldn't overcome without receiving
-                    his helped directly and indirectly! Thank you for willing so much to help us achieving our goals.</p>
+                    his help directly and indirectly! Thank you for willing so much to help us achieving our goals.</p>
                 </div>
                 <div class="img-text flex col">
                     <img src="../img/don4.jpg" style="transform: rotate(0deg);" alt="">
@@ -28,7 +28,7 @@
                 </div>
                 <div class="img-text flex col">
                     <img src="../img/don1.jpg" style="transform: rotate(0deg);" alt="">
-                    <p>You guys together are able to help Heavenly Father to take care His children in this Earth, and we love you and we are thankful for being able to get to know you.
+                    <p>You guys together are able to help Heavenly Father to take care His children in this Earth. We love you and we are thankful for being able to get to know you.
                     Your example makes us work harder to a day be able to do the same to others!</p>
                 </div>
             </div>

@@ -291,6 +291,7 @@ footer h3 {
     height: 40px;
     border-radius: 10px;
     margin: 10px;
+    background-color: white;
   }
   .mainMenu .options .butttons button a {
     font-size: 18px;

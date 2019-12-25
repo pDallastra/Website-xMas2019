@@ -23,16 +23,17 @@
             <div class="img-triple flex row center">
                 <div class="img-text flex col">
                     <img src="../img/byui1.jpg" style="transform: rotate(0deg);" alt="">
-                    <p>We were lucas without people knowing at this time. Her parents didn't accept her waiting for me
-                        during my mission.</p>
+                    <p>I will never forget how hard the first semester was. My English could have been enough to get into college, but I suffered a lot until get used to it.</p>
                 </div>
                 <div class="img-text flex col">
                     <img src="../img/byui2.jpg" alt="">
-                    <p>But when I got back from my mission, no one could stop us anymore :D</p>
+                    <p>Software Engineering. Technology has been a passion in my life since I was 6 and playing Pokemon Silver in a Windows 94 Operational System. I felt I 
+                    should stop only enjoying technology to start using it to create greate things. I will get there one day</p>
                 </div>
                 <div class="img-text flex col">
                     <img src="../img/byui3.jpg" alt="">
-                    <p>And within 2 months that I got back from my mission, we were engaged.</p>
+                    <p>My third semester, I was coming to school at 8am and leaving around 8pm everyday. This is the building where I spend most of time. I'm grateful for the opporunity
+                    to be there learning and becoming a grate professional.</p>
                 </div>
             </div>
             <div class="flex row center">

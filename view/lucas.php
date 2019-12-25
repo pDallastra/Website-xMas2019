@@ -25,7 +25,7 @@
                 </div>
                 <div class="img-text flex col">
                     <img src="../img/lucas2.jpg" alt="">
-                    <p>We talked to so many good couples and families, and we couldn't avoid the desire of starting our own journey of raising Heavenly Father's children.</p>
+                    <p>We talked to so many good couples and families, and we couldn't avoid the feeling we had to start our own journey of raising Heavenly Father's children.</p>
                 </div>
                 <div class="img-text flex col">
                     <img src="../img/lucas1.jpg" alt="">

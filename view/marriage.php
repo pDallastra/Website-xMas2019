@@ -21,7 +21,7 @@
             <div class="img-triple flex row center">
                 <div class="img-text flex col">
                     <img src="../img/marriage7.jpg" alt="">
-                    <p>Few days before this picture, I suffered an accident while going to Curitba to find an apartment for our new family. Nothing too bad happened and I got back home on time for the picture session.</p>
+                    <p>A few days before this picture, I suffered an accident while going to Curitba to find an apartment for our new family. Nothing too bad happened and I got back home on time for this picture session.</p>
                 </div>
                 <div class="img-text flex col">
                     <img src="../img/marriage5.jpg" alt="">
@@ -29,7 +29,7 @@
                 </div>
                 <div class="img-text flex col">
                     <img src="../img/marriage8.jpg" alt="">
-                    <p>Everything was made so simple, and she made everything so magic and beaultiful. We fought so hard for ourselves and finally we were going to start our own family for all eternity.</p>
+                    <p>Everything was made so simple, and she made everything so magic and beaultiful that day. We fought so hard for ourselves and finally we were going to start our own family for all eternity.</p>
                 </div>
             </div>
             <div class="img-triple flex row center">
@@ -39,7 +39,7 @@
                 </div>
                 <div class="img-text flex col">
                     <img src="../img/marriage1.jpg" alt="">
-                    <p>Celebrating for achieving our goal. So many people didn't believe we could make it, but we were there.</p>
+                    <p>Celebrating for achieving our goal. So many people didn't believe we could make it, but we did it!</p>
                 </div>
                 <div class="img-text flex col">
                     <img src="../img/marriage3.jpg" alt="">
@@ -53,7 +53,7 @@
                 </div>
                 <div class="img-text flex col">
                     <img src="../img/marriage90.jpg" alt="">
-                    <p>Finally "Freedom". We were enjoying the option of "going wherever we want" and prepering to move to Curitiba to start our own story as a family.</p>
+                    <p>Finally "Freedom". We were enjoying the "going wherever we want" and prepering to move to Curitiba to start our own story as a family.</p>
                 </div>
                 <div class="img-text flex col">
                     <img src="../img/marriage2.jpg" alt="">

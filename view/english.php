@@ -25,7 +25,7 @@
                         I had never spent so much time doing homework in my life haha.</p>
                 </div>
                 <div class="img-text flex col">
-                    <img src="../img/english1.jpg" alt="">
+                    <img src="../img/english10.jpg" alt="">
                     <p>Working hard for two semesters helped me realize that I could achieve so much more if I spend the
                         right amount of time studying.</p>
                 </div>

@@ -30,7 +30,7 @@
                     <p>Thais was so strong again. We moved from Utah and she was already pregnant for 5 months. We found a new home, a new doctor and then we had a new baby.</p>
                 </div>
                 <div class="img-text flex col">
-                    <img src="../img/derek3.jpg"alt="">
+                    <img src="../img/derek30.jpg"alt="">
                     <p>He came as a great kid! Since he was born - 12/27/2018 - we started receiving even more blessings and learning so much more from Heavenly Father.</p>
                 </div>
             </div>

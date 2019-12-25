@@ -48,11 +48,11 @@
             </div>
             <div class="img-triple flex row center">
                 <div class="img-text flex col">
-                    <img src="../img/marriage11.jpg" alt="">
+                    <img src="../img/marriage110.jpg" alt="">
                     <p>SEALED!</p>
                 </div>
                 <div class="img-text flex col">
-                    <img src="../img/marriage9.jpg" alt="">
+                    <img src="../img/marriage90.jpg" alt="">
                     <p>Finally "Freedom". We were enjoying the option of "going wherever we want" and prepering to move to Curitiba to start our own story as a family.</p>
                 </div>
                 <div class="img-text-rotate-negative90 flex col">

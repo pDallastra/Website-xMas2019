@@ -22,11 +22,11 @@
             </div>
             <div class="img-triple flex row center">
                 <div class="img-text flex col">
-                    <img src="../img/dating4.jpg" alt="">
+                    <img src="../img/dating40.jpg" alt="">
                     <p>Our first time going to a Temple. After few months talking a friend asked: "Why don't you guys start dating?" - We kissed for the first time that night and oficially dating on the next day.</p>
                 </div>
                 <div class="img-text flex col">
-                    <img src="../img/dating2.jpg" alt="">
+                    <img src="../img/dating20.jpg" alt="">
                     <p>First picture of us alone. We were dating for a couple weeks and didn't know that her parents would be on our way to continue dating.</p>
                 </div>
                 <div class="img-text flex col">
@@ -36,7 +36,7 @@
             </div>
             <div class="img-triple flex row center">
                 <div class="img-text flex col">
-                    <img src="../img/dating1.jpg" alt="">
+                    <img src="../img/dating10.jpg" alt="">
                     <p>We were dating without people knowing at this time. Her parents didn't accept her waiting for me during my mission.</p>
                 </div>
                 <div class="img-text flex col">
@@ -44,7 +44,7 @@
                     <p>But when I got back from my mission, no one could stop us anymore :D</p>
                 </div>
                 <div class="img-text flex col">
-                    <img src="../img/dating5.jpg" alt="">
+                    <img src="../img/dating50.jpg" alt="">
                     <p>And within 2 months that I got back from my mission, we were engaged.</p>
                 </div>
             </div>

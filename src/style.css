@@ -230,6 +230,7 @@ footer h3 {
   .main-container h1 {
     font-size: 45px;
     width: auto;
+    background-color: transparent;
   }
   .main-container img {
     height: 230px;
@@ -271,6 +272,7 @@ footer h3 {
   .mainMenu .dallastras h1 {
     font-size: 45px;
     width: auto;
+    background-color: transparent;
   }
   .mainMenu .dallastras img {
     height: auto;

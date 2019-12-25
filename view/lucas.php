@@ -20,7 +20,7 @@
             <h1>Lucas</h1>
             <div class="img-triple flex row center">
                 <div class="img-text flex col">
-                    <img src="../img/marriage12.jpg" style="transform: rotate(180deg);" alt="">
+                    <img src="../img/lucas3.jpg" style="transform: rotate(180deg);" alt="">
                     <p>We were didn't want to start our family so soon, so Amora was our child for a few months.</p>
                 </div>
                 <div class="img-text flex col">

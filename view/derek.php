@@ -25,7 +25,7 @@
                     <img src="../img/derek2.jpg" alt="">
                     <p>We started feeling of making our family bigger again. We felt that we could bring one more Heavenly Father's child to this Earth and learn from it.</p>
                 </div>
-                <div class="img-text flex col">
+                <div class="img-text-rotate-90 flex col">
                     <img src="../img/derek1.jpg" alt="">
                     <p>Thais was so strong again. We moved from Utah and she was already pregnant for 5 months. We found a new home, a new doctor and then we had a new baby.</p>
                 </div>

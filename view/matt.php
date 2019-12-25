@@ -21,7 +21,7 @@
                     <p>We were lucas without people knowing at this time. Her parents didn't accept her waiting for me
                         during my mission.</p>
                 </div>
-                <div class="img-text-rotate-90 flex col">
+                <div class="img-text flex col center">
                     <img src="../img/matt1.jpg" alt="">
                     <p>But when I got back from my mission, no one could stop us anymore :D</p>
                 </div>
